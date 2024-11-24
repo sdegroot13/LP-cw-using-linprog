@@ -1,11 +1,3 @@
-echo "# LP-cw-using-linprog" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/sdegroot13/LP-cw-using-linprog.git
-git push -u origin main
-
 %simplex using linprog
 
 z = [2 3 4 1 8 1];
